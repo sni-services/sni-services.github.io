@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><feed
+  xmlns="http://www.w3.org/2005/Atom"
+  xmlns:thr="http://purl.org/syndication/thread/1.0"
+  xml:lang="en-US"
+  xml:base="http://www.sni-services.com/wp-atom.php"
+  
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+ >
+	<title type="text">SNI Services Web Home</title>
+	<subtitle type="text">What can SNI-Services do for you?</subtitle>
+
+	<updated>2012-08-02T16:49:20Z</updated>
+
+	<link rel="alternate" type="text/html" href="http://www.sni-services.com" />
+	<id>http://www.sni-services.com/feed/atom</id>
+	<link rel="self" type="application/atom+xml" href="http://www.sni-services.com/feed/atom" />
+
+	<generator uri="https://wordpress.org/" version="4.9.8">WordPress</generator>
+	<entry>
+		<author>
+			<name>shainnif</name>
+						<uri>http://www.sni-services.com</uri>
+					</author>
+		<title type="html"><![CDATA[Having clear goals matters.]]></title>
+		<link rel="alternate" type="text/html" href="http://www.sni-services.com/&#039;/2012/07/06/having-clear-goals-matters/&#039;" />
+		<id>http://sni-services.com/?p=534</id>
+		<updated>2012-07-06T19:47:43Z</updated>
+		<published>2012-07-06T10:44:20Z</published>
+		<category scheme="http://www.sni-services.com" term="Project Managment" />		<summary type="html"><![CDATA[Having clear goals can mean the difference between success and failure of a project. &#160;&#160;Many projects fail even before the first keystroke, by not having clearly defined goals.&#160; After all, if there is no way of measuring when a project is successfully complete, then how will we know when we get there? The starting point&#160;<a href="http://www.sni-services.com/'/2012/07/06/having-clear-goals-matters/'" class="read-more">[&#8230;]</a>]]></summary>
+		<content type="html" xml:base="http://www.sni-services.com/&#039;/2012/07/06/having-clear-goals-matters/&#039;"><![CDATA[<p style="text-align: justify; ">Having clear goals can mean the difference between success and failure of a project. &nbsp;&nbsp;Many projects fail even before the first keystroke, by not having clearly defined goals.&nbsp; After all, if there is no way of measuring when a project is successfully complete, then how will we know when we get there?</p>
+<p style="text-align: justify; ">The starting point in many projects is to set some project goals.&nbsp; This lets all the project participants know what is expected of them.</p>
+<p style="text-align: justify; ">An example of this could be &ldquo;To be live by 1<sup>st</sup> January&rdquo;.</p>
+<p style="text-align: justify; ">What is wrong with this?&nbsp; It has a clear direction &ldquo;To be live&rdquo;; and has a measure of timeliness &ldquo;1<sup>st</sup> January&rdquo;; but what is missing?</p>
+<p style="text-align: justify; ">It is not specific enough. It is too vague.&nbsp; &ldquo;To be live&rdquo; could mean complete with all the bells and whistles to one person, or simply online (perhaps with a reduced feature set and incomplete functionality) to another.&nbsp; Goals must be clear and unambiguous to everyone involved.&nbsp; In this case, the goal &ldquo;to be live&rdquo; may be reached and the project declared a success despite not being completed to a satisfactory degree.</p>
+<p style="text-align: justify; ">A better example here would be &ldquo;By the 1<sup>st</sup> January customers will be able to buy goods online from <a href="http://www.example.com">www.example.com</a>&rdquo;.&nbsp; This way we are able to measure when the specific goals have been achieved.</p>
+<p style="text-align: justify; ">Another common pitfall is setting goals that are not realistically achievable.&nbsp; Setting a 1<sup>st</sup> January deadline on 24<sup>th</sup> December is unrealistic and is starting the project on a path to failure.</p>
+<p style="text-align: justify; ">Having SMART goals can help us here: &#8211;</p>
+<h1 style="text-align: justify; ">SMART Goals</h1>
+<h2 style="text-align: justify; ">Specific</h2>
+<p style="text-align: justify; ">The goal needs to be clear and unambiguous without vagaries or platitudes<a href="#_ftn1" name="_ftnref1" title="" class="broken_link">[1]</a>.&nbsp; We want to answer the &lsquo;W&rsquo; questions: Who, What, When and Why.&nbsp; In other words, always assign a name to a task.&nbsp; State exactly who will do what, and when it needs to be done.&nbsp; This lets everyone know what is expected of them in a clear and unambiguous fashion.&nbsp; Ask yourself why a particular goal or task has been set.&nbsp; Make sure the goal is relevant.&nbsp;&nbsp; It also goes without saying that communication is vital here: there is really no point in setting goals if no-one else knows about them.&nbsp; Don&rsquo;t keep them to yourself!</p>
+<h2 style="text-align: justify; ">Measurable</h2>
+<p style="text-align: justify; ">The second term stresses the need for concrete criteria for measuring progress toward the attainment of the goal.&nbsp; We need to know things like how much or how many or how will I know when we are done?&nbsp; Hence everyone on the project knows when the project has achieved its goals.</p>
+<h2 style="text-align: justify; ">Attainable</h2>
+<p style="text-align: justify; ">Can it actually be done? Do you have the necessary time and resources to fulfill your goal? Underestimation is, in my experience, the most problematic; and is often a key feature in failed projects.</p>
+<h2 style="text-align: justify; ">Relevant</h2>
+<p style="text-align: justify; ">Making sure that the goal matters.&nbsp;&nbsp; In the financial industry regulation is a key driver of change, as the penalty for failure ranges from heavy fines to being barred from the market.&nbsp; Goals where the penalty for failure is clear tend to focus minds.</p>
+<h2 style="text-align: justify; ">Time Bound</h2>
+<p style="text-align: justify; ">When does it need to be done by?&nbsp; Setting a time limit and delivery deadline helps to focus everyone&rsquo;s efforts; and the project is less likely to run on and on.&nbsp; Phrases such as &ldquo;by the end of the quarter&rdquo; are acceptable, but stating a clear date e.g. &ldquo;by 25<sup>th</sup> June&rdquo; is better.</p>
+<p style="text-align: justify; ">In summary, goals are important when delivering any project; they provide a common target to aim for, clear guidance for what needs to be done and by whom, and a clear timeframe for when it needs to be done by.&nbsp; It enables those involved to know when the project has been completed to a satisfactory degree.</p>
+<div>
+<p style="text-align: justify; ">&nbsp;</p>
+<hr align="left" size="1" width="33%" />
+<div id="ftn1">
+<p style="text-align: justify; "><a href="#_ftnref1" name="_ftn1" title="" class="broken_link">[1]</a> <a href="http://en.wikipedia.org/wiki/SMART_criteria">http://en.wikipedia.org/wiki/SMART_criteria</a></p>
+</p></div>
+</div>
+<p>&nbsp;</p>
+]]></content>
+		</entry>
+		<entry>
+		<author>
+			<name>shainnif</name>
+						<uri>http://www.sni-services.com</uri>
+					</author>
+		<title type="html"><![CDATA[Letting sleeping dogs lie.]]></title>
+		<link rel="alternate" type="text/html" href="http://www.sni-services.com/&#039;/2012/07/06/letting-sleeping-dogs-lie/&#039;" />
+		<id>http://sni-services.com/?p=525</id>
+		<updated>2012-07-06T10:39:07Z</updated>
+		<published>2012-07-06T10:39:07Z</published>
+		<category scheme="http://www.sni-services.com" term="Business Strategy" />		<summary type="html"><![CDATA[&#160; There is always the temptation when everything is going well just to leave things ticking over; often fuelled by an &#8220;if it&#8217;s not broken, don&#8217;t fix it&#8221; mentality; the fear that by changing something that works, you may break it or damage it in some way.&#160; Or you may think that if things are&#160;<a href="http://www.sni-services.com/'/2012/07/06/letting-sleeping-dogs-lie/'" class="read-more">[&#8230;]</a>]]></summary>
+		<content type="html" xml:base="http://www.sni-services.com/&#039;/2012/07/06/letting-sleeping-dogs-lie/&#039;"><![CDATA[<p>&nbsp;</p>
+<p>There is always the temptation when everything is going well just to leave things ticking over; often fuelled by an &ldquo;if it&rsquo;s not broken, don&rsquo;t fix it&rdquo; mentality; the fear that by changing something that works, you may break it or damage it in some way.&nbsp; Or you may think that if things are working well, they don&rsquo;t need to be changed or improved.</p>
+<p>However, this can be a risky strategy for two reasons.</p>
+<p>There may be a problem coming down the road, and unless you keep looking ahead and re-evaluating, you won&rsquo;t see it coming.&nbsp;&nbsp; Alternatively, you may miss important opportunities because you simply aren&rsquo;t looking.</p>
+<p>BT is a good example of not anticipating potential problems.&nbsp;&nbsp; It was overly reliant on its fixed line business, and in the end was forced into change by regulation and some very aggressive competition. &nbsp;&nbsp;Compare this with Google, who recently announced the termination of iGoogle despite it still being apparently popular and profitable because they could see that technology was changing and that the product would eventually become obsolete.</p>
+<p>Only a few years ago Nokia was the leader in almost every mobile phone market.&nbsp;&nbsp; However, they failed to spot the opportunities that the smart phone market would present, opportunities that Apple and Google have taken with both hands, and as a result their profits and market share have fallen dramatically.</p>
+<p>So I am challenging you to spend five minutes looking at your business and focus on the areas that you think you don&rsquo;t need to worry about.</p>
+]]></content>
+		</entry>
+	</feed>
